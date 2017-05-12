@@ -1,0 +1,893 @@
+Alumni Hall,Lobby,1,,
+HCC,Outpatient Lab,1,104,
+HCC,Outpatient Lab,1,104,
+HCC,Pharmacy,1,,
+HCC,Urgent Care,1,103,
+HCC,Urgent Care,1,103,
+HCC,MIUU Decontamination,2 ,,
+HCC,MIUU Equipment Room,2 ,,
+HCC,MIUU OR,2 ,1,
+HCC,MIUU OR,2 ,2,
+HCC,MIUU OR,2 ,3,
+HCC,MIUU OR,2 ,4,
+HCC,MIUU OR,2 ,5,
+HCC,MIUU Prep Room,2 ,,
+HCC,MIUU Recovery / PACU,2 ,,
+HCC,MIUU Sterile Supply,2 ,,
+HCC,Blood Bank,4 ,,
+HCC,Inpatient Gym,9 ,918,
+HCC,,9 ,905,
+HCC,,9 ,906,
+HCC,,9 ,907,
+HCC,,9 ,908,
+HCC,,9 ,909,
+HCC,,9 ,910,
+HCC,,9 ,911,
+HCC,,9 ,912,
+HCC,,9 ,913,
+HCC,,9 ,914,
+HCC,,9 ,915,
+HCC,,9 ,916,
+HCC,,9 ,917,
+HCC,Psych ECT,10 ,,
+HCC,Psych Utility room,10 ,,
+HCC,Cardiology,11 ,1102,
+HCC,Cardiology,11 ,1103,
+HCC,Cardiology,11 ,1104,
+HCC,Cardiology,11 ,1105,
+HCC,Cardiology,11 ,1106,
+HCC,Cardiology,11 ,1107,
+HCC,Cardiology,11 ,1108,
+HCC,Cardiology,11 ,1109,
+HCC,Cardiology,11 ,1110,
+HCC,Cardiology,11 ,1111,
+HCC,Cardiology,11 ,1112,
+HCC,Cardiology,11 ,1113,
+HCC,Cardiology,11 ,1114,
+HCC,Cardiology,11 ,1115,
+HCC,Cardiology,11 ,1116,
+HCC,Cardiology,11 ,1117,
+HCC,Cardiology,11 ,1118,
+HCC,Cardiology,11 ,1119,
+HCC,Cardiology,11 ,1120,
+HCC,Epilepsy,12 ,1201,
+HCC,Epilepsy,12 ,1202,
+HCC,Epilepsy,12 ,1203,
+HCC,Epilepsy,12 ,1204,
+HCC,Epilepsy,12 ,1205,
+HCC,Epilepsy,12 ,1206,
+HCC,Epilepsy,12 ,1207,
+HCC,Epilepsy,12 ,1208,
+HCC,Epilepsy,12 ,1209,
+HCC,Epilepsy,12 ,1210,
+HCC,Epilepsy,12 ,1211,
+HCC,Cardiac Cath Prep,13 ,1301A,
+HCC,Cardiac Cath Prep,13 ,1301B,
+HCC,Cardiac Cath Prep,13 ,1301C,
+HCC,Cardiac Cath Prep,13 ,1301D,
+HCC,Cardiac Echo,13 ,1322,
+HCC,Echo,13 ,1312,
+HCC,EKG / Holter,13 ,1323,
+HCC,Stress Echo,13 ,1320,
+HCC,Stress Echo,13 ,1321,
+HCC,Vascular lab,13 ,1303D,
+HCC,,13 ,1304,
+HCC,,13 ,1305,
+HCC,,13 ,1306,
+HCC,,13 ,1307,
+HCC,,13 ,1308,
+HCC,,13 ,1309,
+HCC,,13 ,1310,
+HCC,,13 ,1311,
+HCC,,13 ,1312,
+HCC,,13 ,1313,
+HCC,,13 ,1314,
+HCC,,13 ,1315,
+HCC,,13 ,1316,
+HCC,,13 ,1317,
+HCC,,13 ,1318,
+HCC,,13 ,1319,
+HCC,Cath Lab Holding,14 ,1,
+HCC,Cath Lab Holding,14 ,2,
+HCC,Cath Lab Holding,14 ,3,
+HCC,Cath Lab Holding,14 ,4,
+HCC,Cath Lab Holding,14 ,5,
+HCC,Cath Lab Holding,14 ,6,
+HCC,Cath Lab Procedure Rooms,14 ,1,
+HCC,Cath Lab Procedure Rooms,14 ,2,
+HCC,Cath Lab Procedure Rooms,14 ,3,
+HCC,Executive Offices,15 ,,
+IRM,,1,,North
+IRM,,1,,North
+IRM,,1,,South
+IRM,,1,,South
+IRM,,2 ,,
+IRM,Occupational Therapy,3 ,,
+IRM,Outpatient Therapy,4 ,,South
+IRM,,4 ,401,South
+IRM,,4 ,402,South
+IRM,,4 ,403,South
+IRM,,4 ,404,South
+IRM,,4 ,405,South
+IRM,,4 ,406,South
+IRM,,4 ,407,South
+IRM,,4 ,408,South
+IRM,,4 ,409,South
+IRM,,4 ,410,South
+IRM,,4 ,411,South
+IRM,,4 ,412,South
+IRM,,4 ,413,South
+IRM,,4 ,414,South
+IRM,,4 ,415,South
+IRM,,4 ,416,South
+IRM,,4 ,411,West
+IRM,,4 ,412,West
+IRM,,4 ,413,West
+IRM,,4 ,414,West
+IRM,,4 ,415,West
+IRM,,4 ,416,West
+IRM,,4 ,417,West
+IRM,,4 ,418,West
+IRM,,4 ,419,West
+IRM,,4 ,420,West
+IRM,,4 ,421,West
+IRM,,4 ,422,West
+IRM,,4 ,423,West
+IRM,,4 ,424,West
+IRM,,4 ,425,West
+IRM,,4 ,426,West
+IRM,,4 ,427,West
+IRM,,4 ,428,West
+IRM,,4 ,429,West
+IRM,,4 ,430,West
+IRM,,4 ,431,West
+IRM,,4 ,432,West
+IRM,,4 ,433,West
+IRM,,4 ,434,West
+IRM,,4 ,435,West
+IRM,,4 ,436,West
+IRM,,4 ,437,West
+IRM,,4 ,438,West
+IRM,,4 ,439,West
+IRM,,4 ,440,West
+IRM,,4 ,441,West
+IRM,,4 ,442,West
+IRM,,4 ,443,West
+IRM,,4 ,444,West
+IRM,,4 ,445,West
+IRM,,4 ,446,West
+IRM,,4 ,447,West
+IRM,,4 ,448,West
+IRM,,4 ,449,West
+IRM,,4 ,450,West
+IRM,,4 ,451,West
+IRM,,4 ,452,West
+IRM,,4 ,453,West
+IRM,,4 ,454,West
+IRM,,4 ,455,West
+IRM,,4 ,456,West
+IRM,,4 ,457,West
+IRM,,4 ,458,West
+IRM,Pediatrics,5 ,501,
+IRM,Pediatrics,5 ,502,
+IRM,Pediatrics,5 ,503,
+IRM,Pediatrics,5 ,504,
+IRM,Pediatrics,5 ,505,
+IRM,Pediatrics,5 ,506,
+IRM,Pediatrics,5 ,507,
+IRM,Pediatrics,5 ,508,
+IRM,Pediatrics,5 ,509,
+IRM,Pediatrics,5 ,510,
+IRM,Pediatrics,5 ,511,
+IRM,Pediatrics,5 ,512,
+IRM,Pediatrics Ocupational Therapy,5 ,515,
+IRM,Pediatrics Physical Therapy,5 ,,
+IRM,Same Day Admit,6 ,,
+IRM,Physical Therapy,Ground,RG27,
+IRM,Pre-admit Testing,Ground,,
+Outpatient Surgery,Operating Room,1 ,1,
+Outpatient Surgery,Operating Room,1 ,2,
+Outpatient Surgery,Operating Room,1 ,3,
+Outpatient Surgery,Operating Room,1 ,4,
+Outpatient Surgery,Pre-op,1 ,1,
+Outpatient Surgery,Pre-op,1 ,2,
+Outpatient Surgery,Pre-op,1 ,3,
+Outpatient Surgery,Pre-op,1 ,4,
+Outpatient Surgery,Recovery,1 ,1,
+Outpatient Surgery,Recovery,1 ,2,
+Outpatient Surgery,Recovery,1 ,3,
+Outpatient Surgery,Recovery,1 ,4,
+Outpatient Surgery,Recovery,1 ,5,
+Outpatient Surgery,Recovery,1 ,6,
+Outpatient Surgery,Recovery,1 ,7,
+Outpatient Surgery,Recovery,1 ,8,
+Outpatient Surgery,Recovery,1 ,9,
+Outpatient Surgery,Recovery,1 ,10,
+Outpatient Surgery,Recovery,1 ,11,
+Outpatient Surgery,Recovery,1 ,12,
+Outpatient Surgery,Recovery,1 ,13,
+Outpatient Surgery,Sterile Processing,1 ,,
+Outpatient Surgery,Biomed,Cellar,C003,
+Tisch,Emergency Department Ambulance entrance,1 ,,
+Tisch,Emergency Department Back Hallway,1 ,,
+Tisch,Emergency Department Core,1 ,1,
+Tisch,Emergency Department Core,1 ,2,
+Tisch,Emergency Department Core,1 ,3,
+Tisch,Emergency Department Core,1 ,4,
+Tisch,Emergency Department Core,1 ,5,
+Tisch,Emergency Department Core,1 ,6,
+Tisch,Emergency Department Core,1 ,7,
+Tisch,Emergency Department Core,1 ,8,
+Tisch,Emergency Department Core,1 ,9,
+Tisch,Emergency Department Core,1 ,10,
+Tisch,Emergency Department Core,1 ,11,
+Tisch,Emergency Department Core,1 ,12,
+Tisch,Emergency Department Core,1 ,13,
+Tisch,Emergency Department Core,1 ,14,
+Tisch,Emergency Department Core,1 ,15,
+Tisch,Emergency Department Core,1 ,16,
+Tisch,Emergency Department Core,1 ,17,
+Tisch,Emergency Department Entrance,1 ,,
+Tisch,Emergency Department Lower Acuity,1 ,24,
+Tisch,Emergency Department Lower Acuity,1 ,25,
+Tisch,Emergency Department Lower Acuity,1 ,26,
+Tisch,Emergency Department Lower Acuity,1 ,27,
+Tisch,Emergency Department Lower Acuity,1 ,28,
+Tisch,Emergency Department Lower Acuity,1 ,29,
+Tisch,Emergency Department Pediatrics,1 ,21,
+Tisch,Emergency Department Pediatrics,1 ,22,
+Tisch,Emergency Department Pediatrics,1 ,23,
+Tisch,Emergency Department Soiled Utility,1 ,TH G70,
+Tisch,Emergency Department Trauma,1 ,1,
+Tisch,Emergency Department Trauma,1 ,2,
+Tisch,Emergency Department Trauma,1 ,3,
+Tisch,Emergency Department Triage,1 ,1,
+Tisch,Emergency Department Triage,1 ,2,
+Tisch,Emergency Department Vertical lounge,1 ,,
+Tisch,Lobby,1 ,,
+Tisch,Patient Transport Storage Room,1 ,,
+Tisch,Skiball Lobby,1 ,,
+Tisch,Bronc Procedure,2,TH 265,East
+Tisch,Neuro Interventional,2,1,East
+Tisch,Neuro Interventional,2,2,East
+Tisch,Neuro Interventional,2,3,East
+Tisch,Neuro Interventional,2,4,East
+Tisch,Neuro Interventional,2,5,East
+Tisch,Neuro Interventional,2,6,East
+Tisch,Neuro Interventional,2,7,East
+Tisch,Neuro Interventional,2,8,East
+Tisch,Neuro Interventional,2,9,East
+Tisch,Neuro Interventional,2,10,East
+Tisch,Neuro Interventional,2,11,East
+Tisch,Neuro Interventional,2,12,East
+Tisch,Neuro Interventional,2,13,East
+Tisch,Radiology Cat Scan,2,,East
+Tisch,Radiology Fluoroscopy,2,,East
+Tisch,Radiology IR,2,1,East
+Tisch,Radiology IR,2,2,East
+Tisch,Radiology IR,2,3,East
+Tisch,Radiology IR,2,4,East
+Tisch,Radiology IR,2,5,East
+Tisch,Radiology IR,2,6,East
+Tisch,Radiology IR,2,7,East
+Tisch,Radiology IR,2,8,East
+Tisch,Radiology IR,2,9,East
+Tisch,Radiology IR,2,10,East
+Tisch,Radiology IR Hallway,2,,East
+Tisch,Radiology x-ray,2,,East
+Tisch,Stretcher Holding,2,243,East
+Tisch,Radiology Echo,2,,West
+Tisch,Radiology EKG,2,,West
+Tisch,Radiology Holding,2,,West
+Tisch,Radiology Holter Monitoring,2,,West
+Tisch,Radiology Nuclear Medicine,2,,West
+Tisch,Radiology Stress Lab,2,,West
+Tisch,Radiology Treatment,2,,West
+Tisch,Radiology Ultrasound,2,,West
+Tisch,Radiology Wheelchair Waiting,2,,West
+Tisch,Pharmacy,3,,
+Tisch,Lab,4,,
+Tisch,Same Day Admit,4,,
+Tisch,Same Day Admit,4,,
+Tisch,Cardiac Electrophysiology (EP) Procedure,5,1,
+Tisch,Cardiac Electrophysiology (EP) Procedure,5,2,
+Tisch,Cardiac Electrophysiology (EP) Procedure,5,3,
+Tisch,Cardiac Electrophysiology (EP) Procedure,5,4,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,1,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,2,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,3,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,4,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,5,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,6,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,7,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,8,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,9,
+Tisch,Cardiac Electrophysiology (EP) Recovery,5,10,
+Tisch,OR Storage,5,,
+Tisch,OR Hallway,6,,Middle
+Tisch,OR Hallway,6,,North
+Tisch,OR Hallway,6,,South
+Tisch,Sink Room,6,,South
+Tisch,Pump Room,6,,West Hall
+Tisch,Anesthesia Room,6,H650,
+Tisch,Corral / Old Heart Recovery room,6,,
+Tisch,EVS carts,6,,
+Tisch,Operating Room,6,1,
+Tisch,Operating Room,6,2,
+Tisch,Operating Room,6,3,
+Tisch,Operating Room,6,4,
+Tisch,Operating Room,6,5,
+Tisch,Operating Room,6,6,
+Tisch,Operating Room,6,7,
+Tisch,Operating Room,6,8,
+Tisch,Operating Room,6,9,
+Tisch,Operating Room,6,10,
+Tisch,Operating Room,6,11,
+Tisch,Operating Room,6,12,
+Tisch,Operating Room,6,13,
+Tisch,Operating Room,6,14,
+Tisch,Operating Room,6,15,
+Tisch,Operating Room,6,16,
+Tisch,Operating Room,6,17,
+Tisch,Operating Room,6,18,
+Tisch,OR storage,6,TH 649A,
+Tisch,OR storage,6,TH 649B,
+Tisch,PACU / Recovery,6,1,
+Tisch,PACU / Recovery,6,2,
+Tisch,PACU / Recovery,6,3,
+Tisch,PACU / Recovery,6,4,
+Tisch,PACU / Recovery,6,5,
+Tisch,PACU / Recovery,6,6,
+Tisch,PACU / Recovery,6,7,
+Tisch,PACU / Recovery,6,8,
+Tisch,PACU / Recovery,6,9,
+Tisch,PACU / Recovery,6,10,
+Tisch,PACU / Recovery,6,11,
+Tisch,PACU / Recovery,6,12,
+Tisch,PACU / Recovery,6,13,
+Tisch,PACU / Recovery,6,14,
+Tisch,PACU / Recovery,6,15,
+Tisch,PACU / Recovery,6,16,
+Tisch,PACU / Recovery,6,17,
+Tisch,PACU / Recovery,6,18,
+Tisch,PACU / Recovery,6,19,
+Tisch,PACU / Recovery,6,20,
+Tisch,PACU / Recovery,6,21,
+Tisch,PACU / Recovery,6,22,
+Tisch,PACU / Recovery,6,23,
+Tisch,PACU / Recovery,6,24,
+Tisch,PACU / Recovery,6,25,
+Tisch,PACU / Recovery,6,26,
+Tisch,PACU / Recovery,6,27,
+Tisch,PACU / Recovery,6,28,
+Tisch,PACU / Recovery,6,29,
+Tisch,PACU / Recovery,6,30,
+Tisch,PACU / Recovery,6,31,
+Tisch,PACU / Recovery,6,32,
+Tisch,PACU / Recovery,6,33,
+Tisch,PACU / Recovery,6,34,
+Tisch,PACU / Recovery,6,35,
+Tisch,PACU / Recovery,6,36,
+Tisch,Pump Room,6,TH 638,
+Tisch,Storage,6,22,
+Tisch,Central Sterile,7,,
+Tisch,L&D Ante-partum,8,821,East
+Tisch,L&D Ante-partum,8,822,East
+Tisch,L&D Ante-partum,8,829,East
+Tisch,L&D Ante-partum,8,830,East
+Tisch,L&D Ante-partum,8,831,East
+Tisch,L&D Ante-partum,8,832,East
+Tisch,L&D Observation,8,,East
+Tisch,L&D Operating Room,8,TH 828-1,East
+Tisch,L&D Operating Room,8,TH 828-2,East
+Tisch,L&D Operating Room,8,TH 828-3,East
+Tisch,L&D Recovery,8,833,East
+Tisch,L&D Delivery,8,801,West
+Tisch,L&D Delivery,8,802,West
+Tisch,L&D Delivery,8,803,West
+Tisch,L&D Delivery,8,804,West
+Tisch,L&D Delivery,8,805,West
+Tisch,L&D Delivery,8,806,West
+Tisch,L&D Delivery,8,807,West
+Tisch,L&D Delivery,8,808,West
+Tisch,L&D Delivery,8,809,West
+Tisch,L&D Delivery,8,810,West
+Tisch,L&D Delivery,8,811,West
+Tisch,L&D Triage,8,1,West
+Tisch,L&D Triage,8,2,West
+Tisch,L&D Triage,8,3,West
+Tisch,L&D Triage,8,4,West
+Tisch,Epilepsy,9,TH 924-1,East
+Tisch,Epilepsy,9,TH 924-2,East
+Tisch,Epilepsy,9,TH 925-1,East
+Tisch,Epilepsy,9,TH 925-2,East
+Tisch,Epilepsy,9,TH 926-1,East
+Tisch,Epilepsy,9,TH 926-2,East
+Tisch,Epilepsy,9,TH 927-1,East
+Tisch,Epilepsy,9,TH 927-2,East
+Tisch,Pediatrics,9,TH 921-1,East
+Tisch,Pediatrics,9,TH 921-2,East
+Tisch,Pediatrics,9,TH 922-1,East
+Tisch,Pediatrics,9,TH 922-2,East
+Tisch,Pediatrics,9,TH 923-1,East
+Tisch,Pediatrics,9,TH 923-2,East
+Tisch,Pediatrics,9,TH 928-1,East
+Tisch,Pediatrics,9,TH 928-2,East
+Tisch,Pediatrics,9,TH 928-3,East
+Tisch,Pediatrics,9,TH 928-4,East
+Tisch,Pediatrics,9,TH 929-1,East
+Tisch,Pediatrics,9,TH 929-2,East
+Tisch,Pediatrics,9,TH 930-2,East
+Tisch,Pediatrics,9,TH 931-1,East
+Tisch,Pediatrics,9,TH 931-2,East
+Tisch,Pediatrics,9,TH 931-3,East
+Tisch,Pediatrics,9,TH 931-4,East
+Tisch,Pediatrics,9,TH 932-1,East
+Tisch,Pediatrics,9,TH 932-2,East
+Tisch,Pediatrics,9,TH 933-1,East
+Tisch,Pediatrics,9,TH 933-2,East
+Tisch,Pediatrics,9,TH 934-1,East
+Tisch,Pediatrics,9,TH 934-2,East
+Tisch,Pediatrics,9,TH 935,East
+Tisch,,9,TH 930-1,East
+Tisch,NICU,9,TH 901-1,West
+Tisch,NICU,9,TH 901-2,West
+Tisch,NICU,9,TH 901-3,West
+Tisch,NICU,9,TH 901-4,West
+Tisch,NICU,9,TH 901-5,West
+Tisch,NICU,9,TH 902-1,West
+Tisch,NICU,9,TH 902-2,West
+Tisch,NICU,9,TH 902-3,West
+Tisch,NICU,9,TH 902-5,West
+Tisch,NICU,9,TH 902-6,West
+Tisch,NICU,9,TH 903-1,West
+Tisch,NICU,9,TH 903-2,West
+Tisch,NICU,9,TH 903-3,West
+Tisch,NICU,9,TH 903-4,West
+Tisch,NICU,9,TH 903-5,West
+Tisch,NICU,9,TH 903-6,West
+Tisch,NICU,9,TH 904-1,West
+Tisch,NICU,9,TH 904-2,West
+Tisch,NICU,9,TH 904-3,West
+Tisch,NICU,9,TH 904-4,West
+Tisch,NICU,9,TH 904-5,West
+Tisch,NICU,9,TH 904-6,West
+Tisch,NICU,9,TH 905-1,West
+Tisch,NICU,9,TH 905-2,West
+Tisch,NICU,9,TH 905-3,West
+Tisch,NICU,9,TH 906-1,West
+Tisch,NICU,9,TH 906-3,West
+Tisch,NICU,9,TH 902-4,West
+Tisch,NICU,9,TH 906-2,West
+Tisch,PICU,9,TH 907,West
+Tisch,PICU,9,TH 908-1,West
+Tisch,PICU,9,TH 908-2,West
+Tisch,PICU,9,TH 908-3,West
+Tisch,PICU,9,TH 909-1,West
+Tisch,PICU,9,TH 909-2,West
+Tisch,PICU,9,TH 909-3,West
+Tisch,PICU,9,TH 909-4,West
+Tisch,PICU,9,TH 910-1,West
+Tisch,PICU,9,TH 910-2,West
+Tisch,PICU,9,TH 910-3,West
+Tisch,PICU,9,TH 910-4,West
+Tisch,Day Surgery PACU,10,51,East
+Tisch,Day Surgery PACU,10,52,East
+Tisch,Day Surgery PACU,10,53,East
+Tisch,Day Surgery PACU,10,54,East
+Tisch,Day Surgery PACU,10,55,East
+Tisch,Day Surgery PACU,10,56,East
+Tisch,Day Surgery PACU,10,57,East
+Tisch,Day Surgery PACU,10,58,East
+Tisch,Day Surgery PACU,10,59,East
+Tisch,Day Surgery PACU,10,60,East
+Tisch,Day Surgery PACU,10,66,East
+Tisch,Day Surgery PACU,10,67,East
+Tisch,Day Surgery PACU,10,68,East
+Tisch,Day Surgery PACU,10,69,East
+Tisch,Day Surgery PACU,10,70,East
+Tisch,Day Surgery PACU Observation,10,TH 1080,East
+Tisch,Day Surgery PACU Peds,10,61,East
+Tisch,Day Surgery PACU Peds,10,62,East
+Tisch,Day Surgery PACU Peds,10,63,East
+Tisch,Day Surgery PACU Peds,10,64,East
+Tisch,Day Surgery PACU Peds,10,65,East
+Tisch,Day Surgery PACU Stage II,10,71,East
+Tisch,Day Surgery PACU Stage II,10,72,East
+Tisch,Day Surgery PACU Stage II,10,73,East
+Tisch,Day Surgery PACU Stage II,10,74,East
+Tisch,Day Surgery PACU Stage II,10,75,East
+Tisch,Day Surgery PACU Stage II,10,76,East
+Tisch,Day Surgery PACU Stage II,10,77,East
+Tisch,Day Surgery PACU Stage II,10,78,East
+Tisch,Day Surgery PACU Stage II,10,79,East
+Tisch,Day Surgery PACU Stage II,10,80,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,1,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,2,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,3,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,4,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,5,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,6,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,7,East
+Tisch,Day Surgery Pre-operative Assessment Area,10,8,East
+Tisch,Day Surgery Decontamination,10,,West
+Tisch,Day Surgery Equipment Room,10,,West
+Tisch,Day Surgery OR Room,10,1,West
+Tisch,Day Surgery OR Room,10,2,West
+Tisch,Day Surgery OR Room,10,3,West
+Tisch,Day Surgery OR Room,10,4,West
+Tisch,Day Surgery OR Room,10,5,West
+Tisch,Day Surgery OR Room,10,6,West
+Tisch,Day Surgery OR Room,10,7,West
+Tisch,Day Surgery OR Room,10,8,West
+Tisch,Day Surgery OR Room,10,9,West
+Tisch,Day Surgery OR Room,10,10,West
+Tisch,Day Surgery Sub-sterile Room,10,1,West
+Tisch,Day Surgery Sub-sterile Room,10,2,West
+Tisch,Day Surgery Sub-sterile Room,10,3,West
+Tisch,Day Surgery Sub-sterile Room,10,4,West
+Tisch,,11,TH 1121,East
+Tisch,,11,TH 1122,East
+Tisch,,11,TH 1123-1,East
+Tisch,,11,TH 1123-2,East
+Tisch,,11,TH 1124-1,East
+Tisch,,11,TH 1124-2,East
+Tisch,,11,TH 1125-1,East
+Tisch,,11,TH 1125-2,East
+Tisch,,11,TH 1126-1,East
+Tisch,,11,TH 1126-2,East
+Tisch,,11,TH 1127,East
+Tisch,,11,TH 1128,East
+Tisch,,11,TH 1133,East
+Tisch,,11,TH 1134,East
+Tisch,,11,TH 1135,East
+Tisch,Locker room,11,,West
+Tisch,Neuro,12,TH 1221-1,East
+Tisch,Neuro,12,TH 1221-2,East
+Tisch,Neuro,12,TH 1222-1,East
+Tisch,Neuro,12,TH 1222-2,East
+Tisch,Neuro,12,TH 1223-1,East
+Tisch,Neuro,12,TH 1223-1,East
+Tisch,Neuro,12,TH 1223-2,East
+Tisch,Neuro,12,TH 1224-1,East
+Tisch,Neuro,12,TH 1224-2,East
+Tisch,Neuro,12,TH 1225-1,East
+Tisch,Neuro,12,TH 1225-2,East
+Tisch,Neuro,12,TH 1226-1,East
+Tisch,Neuro,12,TH 1226-2,East
+Tisch,Neuro,12,TH 1228,East
+Tisch,Neuro,12,TH 1229-1,East
+Tisch,Neuro,12,TH 1229-2,East
+Tisch,Neuro,12,TH 1230,East
+Tisch,Neuro,12,TH 1231,East
+Tisch,Neuro,12,TH 1232,East
+Tisch,Neuro,12,TH 1233,East
+Tisch,Neuro,12,TH 1234,East
+Tisch,Neuro,12,TH 1235,East
+Tisch,Neuro,12,TH 1236-1,East
+Tisch,Neuro,12,TH 1236-2,East
+Tisch,Neuro,12,TH 1236-3,East
+Tisch,Neuro,12,TH 1236-4,East
+Tisch,Neuro,12,TH 1237-1,East
+Tisch,Neuro,12,TH 1237-2,East
+Tisch,Neuro,12,TH 1237-3,East
+Tisch,Neuro,12,TH 1237-4,East
+Tisch,,12,TH 1220-1,East
+Tisch,,12,TH 1220-2,East
+Tisch,Clean utility,12,TH 1253,West
+Tisch,Equipment room,12,TH 1264,West
+Tisch,Neuro,12,TH 1201-1,West
+Tisch,Neuro,12,TH 1201-2,West
+Tisch,Neuro,12,TH 1202-1,West
+Tisch,Neuro,12,TH 1202-2,West
+Tisch,Neuro,12,TH 1203-1,West
+Tisch,Neuro,12,TH 1203-2,West
+Tisch,Neuro,12,TH 1204-1,West
+Tisch,Neuro,12,TH 1204-2,West
+Tisch,Neuro,12,TH 1205-1,West
+Tisch,Neuro,12,TH 1205-2,West
+Tisch,Neuro,12,TH 1206-1,West
+Tisch,Neuro,12,TH 1206-2,West
+Tisch,Neuro,12,TH 1207,West
+Tisch,Neuro,12,TH 1208,West
+Tisch,Neuro,12,TH 1209,West
+Tisch,Neuro,12,TH 1210,West
+Tisch,Neuro,12,TH 1217-1,West
+Tisch,Neuro,12,TH 1217-2,West
+Tisch,Neuro ICU,12,TH 1211,West
+Tisch,Neuro ICU,12,TH 1212,West
+Tisch,Neuro ICU,12,TH 1213,West
+Tisch,Neuro ICU,12,TH 1214,West
+Tisch,Neuro ICU,12,TH 1215,West
+Tisch,Neuro ICU,12,TH 1216,West
+Tisch,Neuro ICU,12,TH 1218,West
+Tisch,Neuro ICU,12,TH 1219,West
+Tisch,Soiled utility,12,TH 1261,West
+Tisch,L&D Post-partum,13,TH 1321,East
+Tisch,L&D Post-partum,13,TH 1322,East
+Tisch,L&D Post-partum,13,TH 1323,East
+Tisch,L&D Post-partum,13,TH 1324,East
+Tisch,L&D Post-partum,13,TH 1325,East
+Tisch,L&D Post-partum,13,TH 1326,East
+Tisch,L&D Post-partum,13,TH 1327,East
+Tisch,L&D Post-partum,13,TH 1328,East
+Tisch,L&D Post-partum,13,TH 1329,East
+Tisch,L&D Post-partum,13,TH 1330,East
+Tisch,L&D Post-partum,13,TH 1331,East
+Tisch,L&D Post-partum,13,TH 1332,East
+Tisch,L&D Post-partum,13,TH 1333,East
+Tisch,L&D Post-partum,13,TH 1334,East
+Tisch,L&D Post-partum,13,TH 1335,East
+Tisch,L&D Post-partum,13,TH 1336,East
+Tisch,L&D Post-partum,13,TH 1337,East
+Tisch,L&D Post-partum,13,TH 1301,West
+Tisch,L&D Post-partum,13,TH 1302,West
+Tisch,L&D Post-partum,13,TH 1303,West
+Tisch,L&D Post-partum,13,TH 1304,West
+Tisch,L&D Post-partum,13,TH 1305,West
+Tisch,L&D Post-partum,13,TH 1306,West
+Tisch,L&D Post-partum,13,TH 1307,West
+Tisch,L&D Post-partum,13,TH 1308,West
+Tisch,L&D Post-partum,13,TH 1309,West
+Tisch,L&D Post-partum,13,TH 1310,West
+Tisch,L&D Post-partum,13,TH 1311,West
+Tisch,L&D Post-partum,13,TH 1312,West
+Tisch,L&D Post-partum,13,TH 1313,West
+Tisch,L&D Post-partum,13,TH 1314,West
+Tisch,L&D Post-partum,13,TH 1315,West
+Tisch,L&D Post-partum,13,TH 1316,West
+Tisch,L&D Post-partum,13,TH 1317,West
+Tisch,L&D Post-partum,13,TH 1318,West
+Tisch,L&D Post-partum,13,TH 1319,West
+Tisch,Cardiothoracic Surgery,14,TH 1421-2,East
+Tisch,Cardiothoracic Surgery,14,TH 1422-1,East
+Tisch,Cardiothoracic Surgery,14,TH 1422-2,East
+Tisch,Cardiothoracic Surgery,14,TH 1423-1,East
+Tisch,Cardiothoracic Surgery,14,TH 1423-2,East
+Tisch,Cardiothoracic Surgery,14,TH 1424-1,East
+Tisch,Cardiothoracic Surgery,14,TH 1424-2,East
+Tisch,Cardiothoracic Surgery,14,TH 1425-1,East
+Tisch,Cardiothoracic Surgery,14,TH 1425-2,East
+Tisch,Cardiothoracic Surgery,14,TH 1426-1,East
+Tisch,Cardiothoracic Surgery,14,TH 1426-2,East
+Tisch,Cardiothoracic Surgery,14,TH 1427-1,East
+Tisch,Cardiothoracic Surgery,14,TH 1427-2,East
+Tisch,,14,TH 1428,East
+Tisch,,14,TH 1429-1,East
+Tisch,,14,TH 1429-2,East
+Tisch,,14,TH 1430,East
+Tisch,,14,TH 1431,East
+Tisch,,14,TH 1432,East
+Tisch,,14,TH 1433-1,East
+Tisch,,14,TH 1433-2,East
+Tisch,,14,TH 1434-1,East
+Tisch,,14,TH 1434-2,East
+Tisch,,14,TH 1435-1,East
+Tisch,,14,TH 1435-2,East
+Tisch,,14,TH 1436-1,East
+Tisch,,14,TH 1436-2,East
+Tisch,,14,TH 1436-3,East
+Tisch,,14,TH 1436-4,East
+Tisch,,14,TH 1437-1,East
+Tisch,,14,TH 1437-2,East
+Tisch,,14,TH 1437-3,East
+Tisch,,14,TH 1437-4,East
+Tisch,,14,TH1421-1,East
+Tisch,TPU,14,TH 1411-1,West
+Tisch,TPU,14,TH 1411-2,West
+Tisch,TPU,14,TH 1411-3,West
+Tisch,TPU,14,TH 1411-4,West
+Tisch,TPU,14,TH 1412 -1,West
+Tisch,TPU,14,TH 1412 -2,West
+Tisch,Transplant,14,TH 1401-1,West
+Tisch,Transplant,14,TH 1401-2,West
+Tisch,Transplant,14,TH 1402-1,West
+Tisch,Transplant,14,TH 1402-2,West
+Tisch,Transplant,14,TH 1403-1,West
+Tisch,Transplant,14,TH 1403-2,West
+Tisch,Transplant,14,TH 1404-1,West
+Tisch,Transplant,14,TH 1404-2,West
+Tisch,Transplant,14,TH 1405-1,West
+Tisch,Transplant,14,TH 1405-2,West
+Tisch,Transplant,14,TH 1406-1,West
+Tisch,Transplant,14,TH 1406-2,West
+Tisch,Transplant,14,TH 1407-1,West
+Tisch,Transplant,14,TH 1407-2,West
+Tisch,Transplant,14,TH 1409,West
+Tisch,Transplant,14,TH 1410-1,West
+Tisch,Transplant,14,TH 1410-2,West
+Tisch,Transplant,14,TH 1413-1,West
+Tisch,Transplant,14,TH 1413-2,West
+Tisch,Transplant,14,TH 1413-3,West
+Tisch,Transplant,14,TH 1413-4,West
+Tisch,Transplant,14,TH 1414-1,West
+Tisch,Transplant,14,TH 1414-2,West
+Tisch,Transplant,14,TH 1414-3,West
+Tisch,Transplant,14,TH 1414-4,West
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1521,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1522,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1523,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1524,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1525,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1526,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1527-1,East
+Tisch,Congenital cardiovascular care unit (CCVCU),15,TH 1527-2,East
+Tisch,ECCC,15,TH 1528,East
+Tisch,ECCC,15,TH 1529,East
+Tisch,ECCC,15,TH 1530,East
+Tisch,ECCC,15,TH 1531,East
+Tisch,ECCC,15,TH 1532,East
+Tisch,ECCC,15,TH 1533,East
+Tisch,ECCC,15,TH 1534,East
+Tisch,ECCC,15,TH 1535,East
+Tisch,ECCC,15,TH 1536,East
+Tisch,,15,TH 1520,East
+Tisch,Clean Utility,15,TH 1561,West
+Tisch,Equipment closet,15,TH 1559,West
+Tisch,Equipment closet,15,TH 1560,West
+Tisch,ICU,15,TH 1501,West
+Tisch,ICU,15,TH 1502,West
+Tisch,ICU,15,TH 1503,West
+Tisch,ICU,15,TH 1504,West
+Tisch,ICU,15,TH 1505,West
+Tisch,ICU,15,TH 1506,West
+Tisch,ICU,15,TH 1507,West
+Tisch,ICU,15,TH 1508,West
+Tisch,ICU,15,TH 1509-1,West
+Tisch,ICU,15,TH 1509-2,West
+Tisch,ICU,15,TH 1510,West
+Tisch,ICU,15,TH 1511,West
+Tisch,ICU,15,TH 1512,West
+Tisch,ICU,15,TH 1513,West
+Tisch,ICU,15,TH 1514,West
+Tisch,ICU,15,TH 1515,West
+Tisch,ICU,15,TH 1516,West
+Tisch,ICU,15,TH 1517,West
+Tisch,Satellite Pharmacy,15,,
+Tisch,Bone Marrow Transplant (BMT),16,TH 1626,East
+Tisch,Bone Marrow Transplant (BMT),16,TH 1627,East
+Tisch,Bone Marrow Transplant (BMT),16,TH 1628,East
+Tisch,Bone Marrow Transplant (BMT),16,TH 1629,East
+Tisch,Bone Marrow Transplant (BMT),16,TH 1630,East
+Tisch,Bone Marrow Transplant (BMT),16,TH 1631,East
+Tisch,,16,TH 1621-1,East
+Tisch,,16,TH 1621-2,East
+Tisch,,16,TH 1622-1,East
+Tisch,,16,TH 1622-2,East
+Tisch,,16,TH 1623-1,East
+Tisch,,16,TH 1623-2,East
+Tisch,,16,TH 1624-1,East
+Tisch,,16,TH 1624-2,East
+Tisch,,16,TH 1625-1,East
+Tisch,,16,TH 1625-2,East
+Tisch,,16,TH 1632-1,East
+Tisch,,16,TH 1632-2,East
+Tisch,,16,TH 1633-1,East
+Tisch,,16,TH 1633-2,East
+Tisch,,16,TH 1634-1,East
+Tisch,,16,TH 1634-2,East
+Tisch,,16,TH 1634-3,East
+Tisch,,16,TH 1634-4,East
+Tisch,,16,TH 1635-1,East
+Tisch,,16,TH 1635-2,East
+Tisch,,16,TH 1635-3,East
+Tisch,,16,TH 1635-4,East
+Tisch,,16,TH 1601-1,West
+Tisch,,16,TH 1601-2,West
+Tisch,,16,TH 1602-1,West
+Tisch,,16,TH 1602-2,West
+Tisch,,16,TH 1603-1,West
+Tisch,,16,TH 1603-2,West
+Tisch,,16,TH 1604-1,West
+Tisch,,16,TH 1604-2,West
+Tisch,,16,TH 1605-1,West
+Tisch,,16,TH 1605-2,West
+Tisch,,16,TH 1606-1,West
+Tisch,,16,TH 1606-2,West
+Tisch,,16,TH 1607-1,West
+Tisch,,16,TH 1607-2,West
+Tisch,,16,TH 1609,West
+Tisch,,16,TH 1610-1,West
+Tisch,,16,TH 1610-2,West
+Tisch,,16,TH 1611-1,West
+Tisch,,16,TH 1611-2,West
+Tisch,,16,TH 1612,West
+Tisch,,16,TH 1613,West
+Tisch,,16,TH 1614-1,West
+Tisch,,16,TH 1614-2,West
+Tisch,,16,TH 1615-1,West
+Tisch,,16,TH 1615-2,West
+Tisch,,16,TH 1616-1,West
+Tisch,,16,TH 1616-2,West
+Tisch,,16,TH 1617-1,West
+Tisch,,16,TH 1617-2,West
+Tisch,,16,TH 1617-3,West
+Tisch,,16,TH 1617-4,West
+Tisch,,16,TH 1618-1,West
+Tisch,,16,TH 1618-2,West
+Tisch,,16,TH 1618-3,West
+Tisch,,16,TH 1618-4,West
+Tisch,,17,TH 1721-1,East
+Tisch,,17,TH 1721-2,East
+Tisch,,17,TH 1722-1,East
+Tisch,,17,TH 1722-2,East
+Tisch,,17,TH 1723-1,East
+Tisch,,17,TH 1723-2,East
+Tisch,,17,TH 1724-1,East
+Tisch,,17,TH 1724-2,East
+Tisch,,17,TH 1725-1,East
+Tisch,,17,TH 1725-2,East
+Tisch,,17,TH 1726-1,East
+Tisch,,17,TH 1726-2,East
+Tisch,,17,TH 1727,East
+Tisch,,17,TH 1728,East
+Tisch,,17,TH 1729-1,East
+Tisch,,17,TH 1729-2,East
+Tisch,,17,TH 1730-1,East
+Tisch,,17,TH 1730-2,East
+Tisch,,17,TH 1731,East
+Tisch,,17,TH 1733-1,East
+Tisch,,17,TH 1733-2,East
+Tisch,,17,TH 1734-1,East
+Tisch,,17,TH 1734-2,East
+Tisch,,17,TH 1735-1,East
+Tisch,,17,TH 1735-2,East
+Tisch,,17,TH 1736-1,East
+Tisch,,17,TH 1736-2,East
+Tisch,,17,TH 1736-3,East
+Tisch,,17,TH 1736-4,East
+Tisch,,17,TH 1737-1,East
+Tisch,,17,TH 1737-2,East
+Tisch,,17,TH 1737-3,East
+Tisch,,17,TH 1737-4,East
+Tisch,,17,TH 1701-1,West
+Tisch,,17,TH 1701-2,West
+Tisch,,17,TH 1702-1,West
+Tisch,,17,TH 1702-2,West
+Tisch,,17,TH 1703-1,West
+Tisch,,17,TH 1703-2,West
+Tisch,,17,TH 1704-1,West
+Tisch,,17,TH 1704-2,West
+Tisch,,17,TH 1705-1,West
+Tisch,,17,TH 1705-2,West
+Tisch,,17,TH 1706-1,West
+Tisch,,17,TH 1706-2,West
+Tisch,,17,TH 1707-1,West
+Tisch,,17,TH 1707-2,West
+Tisch,,17,TH 1709,West
+Tisch,,17,TH 1710-1,West
+Tisch,,17,TH 1710-2,West
+Tisch,,17,TH 1711-1,West
+Tisch,,17,TH 1711-2,West
+Tisch,,17,TH 1712,West
+Tisch,,17,TH 1713,West
+Tisch,,17,TH 1714-1,West
+Tisch,,17,TH 1714-2,West
+Tisch,,17,TH 1715-1,West
+Tisch,,17,TH 1715-2,West
+Tisch,,17,TH 1716-1,West
+Tisch,,17,TH 1716-2,West
+Tisch,,17,TH 1717-1,West
+Tisch,,17,TH 1717-2,West
+Tisch,,17,TH 1717-3,West
+Tisch,,17,TH 1717-4,West
+Tisch,,17,TH 1718-1,West
+Tisch,,17,TH 1718-2,West
+Tisch,,17,TH 1718-3,West
+Tisch,,17,TH 1718-4,West
+Tisch,Hemo,18,TH 1801-1,
+Tisch,Hemo,18,TH 1801-2,
+Tisch,Hemo,18,TH 1801-3,
+Tisch,Hemo,18,TH 1801-4,
+Tisch,Hemo,18,TH 1801-5,
+Tisch,Environmental Services,Basement,,
+Tisch,Radiation Oncology  Exam Room,Cellar,1,
+Tisch,Radiation Oncology  Exam Room,Cellar,2,
+Tisch,Radiation Oncology  Exam Room,Cellar,3,
+Tisch,Radiation Oncology  Exam Room,Cellar,4,
+Tisch,Radiation Oncology Holding,Cellar,,
+Tisch,Radiation Oncology Pediatric Equipment Storage,Cellar,,
+Tisch,Radiation Oncology x-ray,Cellar,1,
+Tisch,Radiation Oncology x-ray,Cellar,2,
+Tisch,Radiation Oncology x-ray,Cellar,3,
+Tisch,Food Services,Ground,,

@@ -1,0 +1,231 @@
+Dom,,4,,
+Dom,,3,,
+Dom,,2,,
+Dom,,1,Hallway,
+Dom,,1,Bathroom,
+Dom,,1,Storage Closet,
+Chapel,,1,Bathroom,
+Chapel,,1,Office,
+Chapel,,1,Chapel,
+Chapel,,1,Storage Closet,
+CLC,,1,G16,Oak Tree
+CLC,,1,G17,Oak Tree
+CLC,,1,G18,Oak Tree
+CLC,,1,G19,Oak Tree
+CLC,,1,G20,Oak Tree
+CLC,,1,G21,Oak Tree
+CLC,,1,G22,Oak Tree
+CLC,,1,G23,Oak Tree
+CLC,,1,G24,Oak Tree
+CLC,,1,G25,Oak Tree
+CLC,,1,G26,Oak Tree
+CLC,,1,G27,Oak Tree
+CLC,,1,G28,Oak Tree
+CLC,,1,G29,Oak Tree
+CLC,,1,G30,Oak Tree
+CLC,,1,F01,Oak Tree
+CLC,,1,F02,Oak Tree
+CLC,,1,F03,Oak Tree
+CLC,,1,F04,Oak Tree
+CLC,,1,F05,Oak Tree
+CLC,,1,F06,Oak Tree
+CLC,,1,F07,Oak Tree
+CLC,,1,F08,Oak Tree
+CLC,,1,F09,Oak Tree
+CLC,,1,F10,Oak Tree
+CLC,,1,F11,Oak Tree
+CLC,,1,F12,Oak Tree
+CLC,,1,F13,Oak Tree
+CLC,,1,F14,Oak Tree
+CLC,,1,F15,Oak Tree
+CLC,,1,Storage Closet,Oak Tree
+CLC,,1,Storage Closet,Sunrise
+CLC,,1,E16,Sunrise
+CLC,,1,E17,Sunrise
+CLC,,1,E18,Sunrise
+CLC,,1,E19,Sunrise
+CLC,,1,E20,Sunrise
+CLC,,1,E21,Sunrise
+CLC,,1,E22,Sunrise
+CLC,,1,E23,Sunrise
+CLC,,1,E24,Sunrise
+CLC,,1,E25,Sunrise
+CLC,,1,E26,Sunrise
+CLC,,1,E27,Sunrise
+CLC,,1,E28,Sunrise
+CLC,,1,E29,Sunrise
+CLC,,1,E30,Sunrise
+CLC,,1,D01,Sunrise
+CLC,,1,D02,Sunrise
+CLC,,1,D03,Sunrise
+CLC,,1,D04,Sunrise
+CLC,,1,D05,Sunrise
+CLC,,1,D06,Sunrise
+CLC,,1,D07,Sunrise
+CLC,,1,D08,Sunrise
+CLC,,1,D09,Sunrise
+CLC,,1,D10,Sunrise
+CLC,,1,D11,Sunrise
+CLC,,1,D12,Sunrise
+CLC,,1,D13,Sunrise
+CLC,,1,D14,Sunrise
+CLC,,1,D15,Sunrise
+CLC,,1,J16,Blue Water
+CLC,,1,J17,Blue Water
+CLC,,1,J18,Blue Water
+CLC,,1,J19,Blue Water
+CLC,,1,J20,Blue Water
+CLC,,1,J21,Blue Water
+CLC,,1,J22,Blue Water
+CLC,,1,J23,Blue Water
+CLC,,1,J24,Blue Water
+CLC,,1,J25,Blue Water
+CLC,,1,J26,Blue Water
+CLC,,1,J27,Blue Water
+CLC,,1,J28,Blue Water
+CLC,,1,J29,Blue Water
+CLC,,1,J30,Blue Water
+CLC,,1,H01,Blue Water
+CLC,,1,H02,Blue Water
+CLC,,1,H03,Blue Water
+CLC,,1,H04,Blue Water
+CLC,,1,H05,Blue Water
+CLC,,1,H06,Blue Water
+CLC,,1,H07,Blue Water
+CLC,,1,H08,Blue Water
+CLC,,1,H09,Blue Water
+CLC,,1,H10,Blue Water
+CLC,,1,H11,Blue Water
+CLC,,1,H12,Blue Water
+CLC,,1,H13,Blue Water
+CLC,,1,H14,Blue Water
+CLC,,1,H15,Blue Water
+CLC,,1,Storage Closet,Blue Water
+CLC,,1,Storage Closet,Spring Hill
+CLC,,1,C16,Spring Hill
+CLC,,1,C17,Spring Hill
+CLC,,1,C18,Spring Hill
+CLC,,1,C19,Spring Hill
+CLC,,1,C20,Spring Hill
+CLC,,1,C21,Spring Hill
+CLC,,1,C22,Spring Hill
+CLC,,1,C23,Spring Hill
+CLC,,1,C24,Spring Hill
+CLC,,1,C25,Spring Hill
+CLC,,1,C26,Spring Hill
+CLC,,1,C27,Spring Hill
+CLC,,1,C28,Spring Hill
+CLC,,1,C29,Spring Hill
+CLC,,1,C30,Spring Hill
+CLC,,1,B01,Spring Hill
+CLC,,1,B02,Spring Hill
+CLC,,1,B03,Spring Hill
+CLC,,1,B04,Spring Hill
+CLC,,1,B05,Spring Hill
+CLC,,1,B06,Spring Hill
+CLC,,1,B07,Spring Hill
+CLC,,1,B08,Spring Hill
+CLC,,1,B09,Spring Hill
+CLC,,1,B10,Spring Hill
+CLC,,1,B11,Spring Hill
+CLC,,1,B12,Spring Hill
+CLC,,1,B13,Spring Hill
+CLC,,1,B14,Spring Hill
+CLC,,1,B15,Spring Hill
+Hospital,Prep & Recovery,3,,
+Hospital,,3,301,West
+Hospital,,3,302,West
+Hospital,,3,303,West
+Hospital,,3,304,West
+Hospital,,3,305,West
+Hospital,,3,306,West
+Hospital,,3,307,West
+Hospital,,3,308,West
+Hospital,,3,309,West
+Hospital,,3,310,West
+Hospital,,3,311,West
+Hospital,,3,312,West
+Hospital,,3,313,West
+Hospital,,3,314,West
+Hospital,,3,315,West
+Hospital,,3,316,West
+Hospital,,3,317,West
+Hospital,,3,318,West
+Hospital,,3,319,West
+Hospital,,3,320,West
+Hospital,,3,321,West
+Hospital,,3,322,West
+Hospital,,3,323,West
+Hospital,,3,324,West
+Hospital,,3,325,East
+Hospital,,3,326,East
+Hospital,,3,327,East
+Hospital,,3,328,East
+Hospital,,3,329,East
+Hospital,,3,330,East
+Hospital,,3,331,East
+Hospital,,3,332,East
+Hospital,,3,333,East
+Hospital,,3,334,East
+Hospital,,3,335,East
+Hospital,,3,336,East
+Hospital,,3,337,East
+Hospital,,3,338,East
+Hospital,,3,339,East
+Hospital,,3,340,East
+Hospital,,3,341,East
+Hospital,,3,342,East
+Hospital,,3,343,East
+Hospital,,3,344,East
+Hospital,,3,345,East
+Hospital,,3,346,East
+Hospital,,3,347,East
+Hospital,,3,348,East
+Hospital,,4,401,West
+Hospital,,4,402,West
+Hospital,,4,403,West
+Hospital,,4,404,West
+Hospital,,4,405,West
+Hospital,,4,406,West
+Hospital,,4,407,West
+Hospital,,4,408,West
+Hospital,,4,409,West
+Hospital,,4,410,West
+Hospital,,4,411,West
+Hospital,,4,412,West
+Hospital,,4,413,West
+Hospital,,4,414,West
+Hospital,,4,415,West
+Hospital,,4,416,West
+Hospital,,4,417,West
+Hospital,,4,418,West
+Hospital,,4,419,West
+Hospital,,4,420,West
+Hospital,,4,421,West
+Hospital,,4,422,West
+Hospital,,4,423,West
+Hospital,,4,424,West
+Hospital,,4,425,East
+Hospital,,4,426,East
+Hospital,,4,427,East
+Hospital,,4,428,East
+Hospital,,4,429,East
+Hospital,,4,430,East
+Hospital,,4,431,East
+Hospital,,4,432,East
+Hospital,,4,433,East
+Hospital,,4,434,East
+Hospital,,4,435,East
+Hospital,,4,436,East
+Hospital,,4,437,East
+Hospital,,4,438,East
+Hospital,,4,439,East
+Hospital,,4,440,East
+Hospital,,4,441,East
+Hospital,,4,442,East
+Hospital,,4,443,East
+Hospital,,4,444,East
+Hospital,,4,445,East
+Hospital,,4,446,East
+Hospital,,4,447,East
+Hospital,,4,448,East

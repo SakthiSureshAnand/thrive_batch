@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:security="http://www.springframework.org/schema/security"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+		http://www.springframework.org/schema/context
+		http://www.springframework.org/schema/context/spring-context-3.1.xsd">
+
+	<context:annotation-config />
+	<context:component-scan base-package="com.npb.rea" />
+
+	<!-- for local system -->
+	 <context:property-placeholder location="resources/jdbc.properties" order="1" ignore-unresolvable="true"/>
+	<!-- <context:property-placeholder location="resources/ReaPropertyDaoSQL.properties" order="2" ignore-unresolvable="true"/>
+	<context:property-placeholder location="resources/ReaPropertyHistoryDaoSQL.properties" order="3" ignore-unresolvable="true"/>
+	<context:property-placeholder location="resources/SurveyBuilderNoun_Default_Activity_SQL.properties" order="4" ignore-unresolvable="true"/>
+	 -->
+	<!-- <context:property-placeholder location="jdbc.properties"/> -->
+	<!-- for linux environment -->
+
+	<!-- <context:property-placeholder location="/home/kumaresanp/real/resources/jdbc.properties" order="1" ignore-unresolvable="true" />
+	<context:property-placeholder location="/home/kumaresanp/real/resources/ReaPropertyDaoSQL.properties" order="2" ignore-unresolvable="true" />
+	 --><bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource"
+		destroy-method="close">
+		<property name="driverClassName">
+			<value>${jdbc.driverClassName}</value>
+		</property>
+		<property name="url">
+			<value>${jdbc.url}</value>
+		</property>
+		<property name="username">
+			<value>${jdbc.username}</value>
+		</property>
+		<property name="password">
+			<value>${jdbc.password}</value>
+		</property>
+	</bean>
+
+</beans>
